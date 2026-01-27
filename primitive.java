@@ -6,7 +6,7 @@ float totalcost = items * costperitem;
 char currency = '$';
 
 System.out.println("Number of items:" + items);
-System.out.println("cost per item:" + cost per item + currency);
-System.out.println("Total cost:" + totalcost + currncy);
+System.out.println("cost per item:" + costperitem + currency);
+System.out.println("Total cost:" + totalcost + currency);
 }
 }
